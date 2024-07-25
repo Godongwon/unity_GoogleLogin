@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/1.Scene/SampleScene.unity
+    path: Assets/1.Scene/MainMenu.unity
+    guid: 9be16c95291c36d4888aad41c673baf5
+  - enabled: 1
+    path: Assets/1.Scene/Google_login.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/1.Scene/Localization.unity
+    guid: 5ffef1de486ec674ebae7092679d6ca7
+  - enabled: 1
+    path: Assets/1.Scene/Share.unity
+    guid: bbadf5ac38fc2954ea1a61ac06bde41b
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: c609801f77fd0cf499b3fba74324f085, type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: 2f00678b17faa6847bb3ec91e9675346, type: 2}
